@@ -1,2 +1,5 @@
 # Ignore Pycharm Folder
-/.idea/
+.idea/
+
+# Ignore the database
+mysite/db.sqlite3
